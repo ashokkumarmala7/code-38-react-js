@@ -55,6 +55,8 @@ export const CourseTagsList = styled.ul`
   padding: 0px;
   margin: 0px;
 `
+export const CourseTagItem = styled.li`
+list-style-type:none;`
 export const CourseTag = styled.p`
   color: #25262c;
   background-color: #e2e8f0;
